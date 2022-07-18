@@ -38,13 +38,13 @@
 for books and a submit button
 
 ## GitHub Repo
-* 
+* https://github.com/asad-khilji/Mern-book-search
 
 ## Heroku App
 * 
 
 ## Screenshot
-![Screenshot.jpg]();
+![Screenshot.jpg](https://github.com/asad-khilji/Mern-book-search/blob/main/images/Screenshot.jpg);
 
 ## Contribution
 * Made By Asad Khilji
